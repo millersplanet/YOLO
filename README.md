@@ -1,2 +1,2 @@
 # YOLO
-YOLO
+You Only Live Once
